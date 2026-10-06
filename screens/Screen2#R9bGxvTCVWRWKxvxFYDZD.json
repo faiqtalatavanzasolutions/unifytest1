@@ -1,0 +1,73 @@
+[
+  {
+    "id": "R9bGxvTCVWRWKxvxFYDZD",
+    "name": "Screen2",
+    "icon": "FaGripHorizontal",
+    "path": "0",
+    "attributes": {
+      "name": "Constraint Layout",
+      "layoutProperties": {
+        "orientation": "vertical",
+        "layout_width": "match_parent",
+        "layout_height": "wrap_content",
+        "statusBarColor": "#093959",
+        "background": "#F8F8F8",
+        "navBarColor": "#093959",
+        "hideNavBar": true,
+        "cornerRadius": [0, 0, 0, 0]
+      },
+      "componentId": []
+    },
+    "group": "Layout",
+    "type": "CONSTRAINT",
+    "status": "ACTIVE",
+    "updatedAt": "10/6/2026",
+    "createdAt": "10/6/2026",
+    "events": [],
+    "order": 1,
+    "version": "1.0.0",
+    "isLatest": true,
+    "component": { "content": "Constraint Layout", "type": "CONSTRAINT" },
+    "gridProps": [],
+    "subType": "screen",
+    "layout": [
+      {
+        "id": "R9bGxvTCVWRWKxvxFYDZD",
+        "name": "Screen2",
+        "icon": "FaGripHorizontal",
+        "path": "0",
+        "attributes": {
+          "name": "Constraint Layout",
+          "layoutProperties": {
+            "orientation": "vertical",
+            "layout_width": "match_parent",
+            "layout_height": "wrap_content",
+            "statusBarColor": "#093959",
+            "background": "#F8F8F8",
+            "navBarColor": "#093959",
+            "hideNavBar": true,
+            "cornerRadius": [0, 0, 0, 0]
+          },
+          "componentId": []
+        },
+        "group": "Layout",
+        "type": "CONSTRAINT",
+        "status": "ACTIVE",
+        "updatedAt": "2021-09-23T15:17:45.489Z",
+        "createdAt": "2021-08-24T06:05:50.559Z",
+        "events": [],
+        "order": 1,
+        "version": "1.0.0",
+        "isLatest": true,
+        "component": { "content": "Constraint Layout", "type": "CONSTRAINT" },
+        "gridProps": [],
+        "subType": "screen"
+      }
+    ],
+    "projectId": "6ac4d56d11ddac105c74c273",
+    "gitBranchName": "master",
+    "_id": "R9bGxvTCVWRWKxvxFYDZD",
+    "createdBy": "faiqtalat",
+    "updatedTimestamp": "0000-00-00T00:00:00+00:00"
+  }
+]
